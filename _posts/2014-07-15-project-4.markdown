@@ -7,7 +7,7 @@ alt: image-alt
 project-date: April 2016
 client: Start Bootstrap
 category: Complex Data Analysis, Web Application Development
-description:Successfully built a web based application using Javascript HTML and PHP to predict Solar Energy using the open source datasets.
+description: Successfully built a web based application using Javascript HTML and PHP to predict Solar Energy using the open source datasets.
 Computed linear regression models using R on the weather data resulting in powerful prediction knowledge with accuracy of 83%. Leveraged computed data to recommend the number of appliances that can run of predicted solar power. 
 
 ---
