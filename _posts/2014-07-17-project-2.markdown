@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Smart Parking Finder
 modal-id: 2
 date: 2016-12-24
 img: smart.PNG

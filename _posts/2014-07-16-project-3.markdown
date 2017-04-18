@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Cookzilla- A recipe sharing Social Media
 modal-id: 3
 date: 2016-12-15
 img: cookzilla.PNG

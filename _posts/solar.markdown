@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2016-04-18
-img: weather.PNG
+img: cake.PNG
 alt: image-alt
 project-date: April 2017
 client: Solar Architect: Intelligent Recommendation Engine
