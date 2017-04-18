@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2017-04-18
 img: bda.PNG
 alt: image-alt
 project-date: April 2017
 client: Big Data Analysis Project
 category: Big Data Analysis and Map Reduce Framework
-description: as a part of the current coursework I am enrolled in the course of Big Data Analysis where my task is to clean, analyze and discover hidden information using complex dataset of NYC complaints that ranges over 7GB+ on Microsoft Excel and Spark. Find the entire project on :<a href="https://github.com/anshalsavla/BigDataProject">GitHub Repo</a>. 
+description: As a part of the current coursework I am enrolled in the course of Big Data Analysis where my task is to clean, analyze and discover hidden information using complex dataset of NYC complaints that ranges over 7GB+ on Microsoft Excel and Spark. Find the entire project on :<a href="https://github.com/anshalsavla/BigDataProject">GitHub Repo</a>. 
 
 ---

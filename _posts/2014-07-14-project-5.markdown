@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2016-03-14
 img: urban.PNG
 alt: image-alt
 project-date: April 2016
 client: Urban Desi
 category: Web Development
-description: Freelance Web Development<a href="http://urbandesi.net/">Find here</a> 
+description: Freelance Web Development<a href="http://urbandesi.net/"> Find here</a> 
 
 ---
