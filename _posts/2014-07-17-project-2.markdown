@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2016-12-24
+img: smart.PNG
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: December 2016
+client: Cloud Computing Project
+category: Web Development, Elastic Search, Innovations
+description: Finding a Parking spot in a busy area is the most painful thing for any person. An average person spends a lot of time finding a parking spot. To solve this problem we have come up with a basic web application to help people find parking spots near to the location where they want to visit. We use the data given to us by the users and show available parking based on the real-time location data available with us. This application is highly scalable and cloud-based. <a href="https://youtu.be/LOisCaxRSK4">Youtube Link to the Demo</a>. 
 
 ---

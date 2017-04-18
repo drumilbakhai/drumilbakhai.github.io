@@ -2,11 +2,11 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: cookzilla.PNG
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: December 2016
+client: Database Management Coursework
+category: Web Development, Database Management
+description: We have developed a website like social media application for food lovers. Inspired from Indian application named “Zomato” which gives review about the restaurants and different sets of cuisines from various cultures, we have slightly modified the idea to develop our application. In our application, user will have their account and can perform various activities. User can share recipes with each other, connect with each other by forming a group, organizing the events, and can view the activities of their followers. <a href="https://cookzilla.000webhostapp.com/">Find Live Demo Here</a>. 
 
 ---
