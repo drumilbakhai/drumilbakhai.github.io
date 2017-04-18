@@ -1,5 +1,5 @@
 # Site settings
-title: Drumil Bakhai Web Portfolio
+title: Drumil Bakhai
 email: dkb300@nyu.edu
 url: https://drumilbakhai.github.io
 description: "Clueless about the description right now (for Google search results) and in your feed.xml site description."
@@ -31,9 +31,9 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Drumil Bakhai
   location: Location
-  social: Around the Web
+  social: Web Presence
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -52,7 +52,7 @@ address:
   - line: Jersey City, NJ 07306
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Thank you Github pages and Dr. Jekyll'
 
 # Build settings
 markdown: kramdown
