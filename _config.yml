@@ -48,8 +48,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 54 Saint Pauls Av,
-  - line: Jersey City, NJ 07306
+  - line: 367 86th Street,
+  - line: Brooklyn, NY 11209
 
 # Credits content
 credits: 'Thank you Github pages and Dr. Jekyll'
